@@ -4,33 +4,33 @@
     <string name="app_name" translatable="false">Udacity - Android Basics : User Input</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="name">Name</string>
+    <string name="name">Nama</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="toppings">Toppings</string>
+    <string name="toppings">Tambahan</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="whipped_cream">Whipped Cream</string>
+    <string name="whipped_cream">Krim Putar</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="chocolate">Chocolate</string>
+    <string name="chocolate">Coklat</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="quantity">Quantity</string>
+    <string name="quantity">Jumlah</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=5] -->
     <string name="initial_quantity_value" translatable="false">0</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="order">Order</string>
+    <string name="order">Pesanan</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="price">Price</string>
+    <string name="price">Harga</string>
 
     <!--
       Subject line for the order summary email. It will be in the format of
       "Just Java order for Amy" where Amy is the user's name. [CHAR LIMIT=NONE]
     -->
-    <string name="order_summary_email_subject">Just Java order for <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="order_summary_email_subject">Pesanan Just Java Untuk <xliff:g example="Amy" id="name">%s</xliff:g></string>
 
 </resources>
